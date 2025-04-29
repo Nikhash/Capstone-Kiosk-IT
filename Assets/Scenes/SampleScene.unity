@@ -31293,7 +31293,7 @@ PrefabInstance:
       objectReference: {fileID: 1197968912}
     - target: {fileID: 5539741742165411313, guid: ec2c4d52294cbaf4da532e8bac4e965f, type: 3}
       propertyPath: m_Name
-      value: Kiosk Hexagon modular
+      value: Kiosk Hexagon modular (Latest)
       objectReference: {fileID: 0}
     - target: {fileID: 5555600828235976144, guid: ec2c4d52294cbaf4da532e8bac4e965f, type: 3}
       propertyPath: m_Mesh
